@@ -37,8 +37,8 @@ All data is stored **locally on your Mac**.
 - Highlight today’s date  
 - Store everything privately on-device
 - Export all appointments and settings in Excel CSV format
--     Paid version allows importing this CSV file that is editable in Excel
--     Simple but complete format with headers and documentation in the file
+- Paid version allows importing this CSV file that is editable in Excel
+- CSV file has simple but complete format with headers and documentation in the file
 
 ---
 
