@@ -79,7 +79,7 @@ If you use the Export feature, Calenduuh generates:
 - A ZIP file containing any notes with embedded images  
 
 The CSV file is stored **only where you choose to save it**.  
-The Zip file is not intended for the editing by the user and therefore is stored in the app support folder according to Apple's sandbox requirements
+The Zip file is not intended for editing by the user and therefore is stored in the app support folder according to Apple's sandbox requirements
 Calenduuh does not upload, transmit, or send exported data anywhere.
 
 ---
