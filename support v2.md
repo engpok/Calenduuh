@@ -1,4 +1,4 @@
-# Calenduuh — Help
+<h1 align="center"> Calenduuh — Help<br>Version 2</h1>
 
 Welcome to the support page for **Calenduuh**, the lightweight desktop calendar for macOS that keeps your schedule and notes just a click away.
 
@@ -24,7 +24,7 @@ All data is stored **locally on your Mac**.
 
 ---
 
-## 🔧 Features Available in the Free Version
+## 🔧 Features Available for Free
 
 - Help menu documents usage of Calenduuh
 - Create and edit appointments  
@@ -42,14 +42,10 @@ All data is stored **locally on your Mac**.
 
 ---
 
-## 🚫 Features Not Included in Calenduuh Free
-
-The free version does **not** include:
+## 🚫 Features Requiring In-App-Purchase:
 
 - CSV Import (simple but complete format with headers and documentation in the file) 
 - ICS Import (ICS a universal, plain text standard for sharing calendar data... used by Google calendar, Outlook and Apple Calendar, sports web sites, etc)  
-
-These features are available in the full version of **Calenduuh**.
 
 ---
 
@@ -79,6 +75,12 @@ Resize freely — Calenduuh remembers your chosen size and position on the next 
 
 ---
 
+## New in Version 2:
+ - Help is now a link to this browser page
+ - No longer two apps (paid and free); now: single app with In-App-Purchase
+
+---
+
 ## 🔒 Privacy
 
 Calenduuh stores all appointments, reminders, and notes **only on your device**.  
@@ -95,7 +97,7 @@ See the full privacy policy here:
 Try resetting the window position by holding **Option** while launching the app.
 
 ### Import option appear disabled
-This is expected — Import feature is only available in the full version of Calenduuh.
+This is expected — Import feature is only available after In-App-Purchase.
 
 ### Notes aren’t showing images
 Ensure the note was saved after adding images.  
