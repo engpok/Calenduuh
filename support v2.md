@@ -45,7 +45,7 @@ All data is stored **locally on your Mac**.
 ## 🚫 Features Requiring In-App-Purchase:
 
 - CSV Import (simple but complete format with headers and documentation in the file) 
-- ICS Import (ICS a universal, plain text standard for sharing calendar data... used by Google calendar, Outlook and Apple Calendar, sports web sites, etc)  
+- ICS Import (ICS is a universal, plain text standard for sharing calendar data... used by Google calendar, Outlook and Apple Calendar, sports web sites, etc)  
 
 ---
 
@@ -91,17 +91,16 @@ See the full privacy policy here:
 
 ---
 
-## 🧩 Troubleshooting
+## 🧩 Frequently asked questions
 
-### The calendar window is missing or off-screen
-Try resetting the window position by holding **Option** while launching the app.
+### I just see bars in dates that I have appointments. Do I have to open the appointment to see it?
+No. With the calenduuh app selected (click in top banner), just hover over the date and the title of the appointment(s) will show. This allows the calendar to be small but still be able to easily see appointments.
 
-### Import option appear disabled
+### Why is the Import option disabled?
 This is expected — Import feature is only available after In-App-Purchase.
 
-### Notes aren’t showing images
-Ensure the note was saved after adding images.  
-Images are stored inside the app’s sandbox in RTFD format.
+### I have lots of birthdays that I want to enter. Is there a quicker way than going to each date in the calendar?
+Yes, this is one of the nice features the export/import capability. Export the calendar that you currently have. That will give you an Excel file. The Excel file documents the file format at the top of the file. Use that info to add your birthdays to the Excel file. Then Import> Add that Excel file baxck into the app.
 
 ---
 
