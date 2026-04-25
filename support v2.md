@@ -55,17 +55,23 @@ All data is stored **locally on your Mac**.
 Click any day cell in the calendar.  
 A window will appear where you can add a title, notes, event color, and recurrence.
 
+### ➤ Assign the Appointment to a Group
+Groups are used to color code appointments by purpose (Birthdays, Medical, Work, Travel, etc).
+When an appointment is assigned to a group, the appointment bar in the calendar date shows in that group's color.
+Use the Group pull down menu to assign the appointment to a group. See **Changing Appearance** section below to learn how to create groups and assign colors to groups.
+
 ### ➤ Adding Notes or Images
 Notes support both text and images (RTFD format).  
 Images you paste or drop into a note are saved inside the app’s sandbox.
 
 ### ➤ Changing Appearance
-Open the appearance settings to adjust:
+Open the **Calenduuh > Calenduuh Settings** to adjust:
 
 - Fonts
 - Colors
 - Background
 - Cell layout
+- Groups: click on **Open Groups Manager** to add or modify groups
 
 Your preferences save automatically.
 
@@ -93,14 +99,17 @@ See the full privacy policy here:
 
 ## 🧩 Frequently asked questions
 
+### Can I have more than one appointment in the same day?
+Absolutely. If there is already an appointment, then when you click into that day you'll be in edit mode for that appointment. Just cancel out of that appointment and you'll see another window that allows you to add another appointment.
+
 ### I just see bars in dates that I have appointments. Do I have to open the appointment to see it?
-No. With the calenduuh app selected (click in top banner), just hover over the date and the title of the appointment(s) will show. This allows the calendar to be small but still be able to easily see appointments.
+No. With the calenduuh app selected (click in top banner), just hover over the date and the title of the appointment(s) will show. Because of this, you might want to put the time of the appointment in the title. Then you only need to open the date to see additional info. This allows the calendar to be small but still show appointments at a glance.
 
 ### Why is the Import option disabled?
 This is expected — Import feature is only available after In-App-Purchase.
 
 ### I have lots of birthdays that I want to enter. Is there a quicker way than going to each date in the calendar?
-Yes, this is one of the nice features the export/import capability. Export the calendar that you currently have. That will give you an Excel file. The Excel file documents the file format at the top of the file. Use that info to add your birthdays to the Excel file. Then Import> Add that Excel file baxck into the app.
+Yes, this is one of the nice features of the export/import capability. Export the calendar that you currently have. That will give you an Excel file. The Excel file documents the file format at the top of the file. Use that info to add your birthdays to the Excel file. Then Import > Add that Excel file back into the app.
 
 ---
 
