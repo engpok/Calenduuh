@@ -1,4 +1,4 @@
-# Calenduuh Free (and Paid) — Support
+<h1 align="center"> Calenduuh — Help<br>Version 2</h1>
 
 Welcome to the support page for **Calenduuh**, the lightweight desktop calendar for macOS that keeps your schedule and notes just a click away.
 
@@ -24,7 +24,7 @@ All data is stored **locally on your Mac**.
 
 ---
 
-## 🔧 Features Available in the Free Version
+## 🔧 Features Available for Free
 
 - Help menu documents usage of Calenduuh
 - Create and edit appointments  
@@ -42,14 +42,10 @@ All data is stored **locally on your Mac**.
 
 ---
 
-## 🚫 Features Not Included in Calenduuh Free
-
-The free version does **not** include:
+## 🚫 Features Requiring In-App-Purchase:
 
 - CSV Import (simple but complete format with headers and documentation in the file) 
-- ICS Import (ICS a universal, plain text standard for sharing calendar data... used by Google calendar, Outlook and Apple Calendar, sports web sites, etc)  
-
-These features are available in the full version of **Calenduuh**.
+- ICS Import (ICS is a universal, plain text standard for sharing calendar data... used by Google calendar, Outlook and Apple Calendar, sports web sites, etc)  
 
 ---
 
@@ -59,23 +55,35 @@ These features are available in the full version of **Calenduuh**.
 Click any day cell in the calendar.  
 A window will appear where you can add a title, notes, event color, and recurrence.
 
+### ➤ Assign the Appointment to a Group
+Groups are used to color code appointments by purpose (Birthdays, Medical, Work, Travel, etc).
+When an appointment is assigned to a group, the appointment bar in the calendar date shows in that group's color.
+Use the Group pull down menu to assign the appointment to a group. See **Changing Appearance** section below to learn how to create groups and assign colors to groups.
+
 ### ➤ Adding Notes or Images
 Notes support both text and images (RTFD format).  
 Images you paste or drop into a note are saved inside the app’s sandbox.
 
 ### ➤ Changing Appearance
-Open the appearance settings to adjust:
+Open the **Calenduuh > Calenduuh Settings** to adjust:
 
 - Fonts
 - Colors
 - Background
 - Cell layout
+- Groups: click on **Open Groups Manager** to add or modify groups
 
 Your preferences save automatically.
 
 ### ➤ Moving the Calendar Window
 Drag the window to any location.  
 Resize freely — Calenduuh remembers your chosen size and position on the next launch.
+
+---
+
+## New in Version 2:
+ - Help is now a link to this browser page
+ - No longer two apps (paid and free); now: single app with In-App-Purchase
 
 ---
 
@@ -89,17 +97,19 @@ See the full privacy policy here:
 
 ---
 
-## 🧩 Troubleshooting
+## 🧩 Frequently asked questions
 
-### The calendar window is missing or off-screen
-Try resetting the window position by holding **Option** while launching the app.
+### Can I have more than one appointment in the same day?
+Absolutely. If there is already an appointment, then when you click into that day you'll be in edit mode for that appointment. Just cancel out of that appointment and you'll see another window that allows you to add another appointment.
 
-### Import option appear disabled
-This is expected — Import feature is only available in the full version of Calenduuh.
+### I just see bars in dates that I have appointments. Do I have to open the appointment to see it?
+No. With the calenduuh app selected (click in top banner), just hover over the date and the title of the appointment(s) will show. Because of this, you might want to put the time of the appointment in the title. Then you only need to open the date to see additional info. This allows the calendar to be small but still show appointments at a glance.
 
-### Notes aren’t showing images
-Ensure the note was saved after adding images.  
-Images are stored inside the app’s sandbox in RTFD format.
+### Why is the Import option disabled?
+This is expected — Import feature is only available after In-App-Purchase.
+
+### I have lots of birthdays that I want to enter. Is there a quicker way than going to each date in the calendar?
+Yes, this is one of the nice features of the export/import capability. Export the calendar that you currently have. That will give you an Excel file. The Excel file documents the file format at the top of the file. Use that info to add your birthdays to the Excel file. Then Import > Add that Excel file back into the app.
 
 ---
 
