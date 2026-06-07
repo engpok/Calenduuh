@@ -1,4 +1,4 @@
-<h1 align="center"> Calenduuh — Help<br>Version 2</h1>
+<h1 align="center"> Calenduuh — Help<br>Version 2.1</h1>
 
 Welcome to the support page for **Calenduuh**, the lightweight desktop calendar for macOS that keeps your schedule and notes just a click away.
 
@@ -62,7 +62,8 @@ Use the Group pull down menu to assign the appointment to a group. See **Changin
 
 ### ➤ Adding Notes or Images
 Notes support both text and images (RTFD format).  
-Images you paste or drop into a note are saved inside the app’s sandbox.
+Images you paste or drop into a note are saved inside the app’s sandbox.  
+Buttons above the Notes panel provide font changing capability.
 
 ### ➤ Changing Appearance
 Open the **Calenduuh > Calenduuh Settings** to adjust:
@@ -81,9 +82,9 @@ Resize freely — Calenduuh remembers your chosen size and position on the next 
 
 ---
 
-## New in Version 2:
- - Help is now a link to this browser page
- - No longer two apps (paid and free); now: single app with In-App-Purchase
+## New in Version 2.1:
+  - Text box borders more prominent
+  - font changing buttons now in appointment editor
 
 ---
 
@@ -113,9 +114,22 @@ Yes, this is one of the nice features of the export/import capability. Export th
 
 ---
 
+## Version History
+
+### Version 2.1
+ - Text box borders more prominent
+ - font changing buttons now in appointment editor
+
+### Version 2
+ - Help is now a link to this browser page
+ - No longer two apps (paid and free); now: single app with In-App-Purchase
+
+---
+
 ## 📬 Contact
 
 If you need additional help, feel free to reach out:  
 **cellanalysis1@gmail.com**
 
 Thank you for using Calenduuh!
+
