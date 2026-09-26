@@ -29,7 +29,7 @@ All data is stored **locally on your Mac**.
 - Help menu documents usage of Calenduuh
 - Create and edit appointments  
 - Create reminders with repeat options (daily, weekly, monthly, yearly)
-- **Duplicate appointments** to create follow on appointments with all of the notes  
+- Duplicate appointments to create follow on appointments with all of the notes  
 - Add notes, including RTFD text and images  
 - Assign colors to groups  
 - Navigate months and years  
