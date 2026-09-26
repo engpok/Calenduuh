@@ -106,6 +106,9 @@ Absolutely. If there is already an appointment, then when you click into that da
 ### I just see bars in dates that I have appointments. Do I have to open the appointment to see it?
 No. With the calenduuh app selected (click in top banner), just hover over the date and the title of the appointment(s) will show. Because of this, you might want to put the time of the appointment in the title. Then you only need to open the date to see additional info. This allows the calendar to be small but still show appointments at a glance.
 
+### I put maps and other info in an appointment. Now, I want to keep that appointment in the calendar for record keeping; but I also have a follow up appointment where I'd like to have all of that same map/info. Do I have to manually copy that map & info to the follow up appointment date?
+No. This is what the "Duplicate" option is for. Click on the date of the original appointment. That will pop up a window to edit that appointment. Cancel out of that window and you'll see a smaller window with the "Duplicate" option next to the listing of the appointment. The Duplicate option pops up a duplicate edit window for the appointment. Change the date and save, and you now have a duplicate appointment with the map and other info.
+
 ### Why is the Import option disabled?
 This is expected — Import feature is only available after In-App-Purchase.
 
