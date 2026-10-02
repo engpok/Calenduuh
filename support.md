@@ -1,4 +1,4 @@
-<h1 align="center"> Calenduuh — Help<br>Version 2.1</h1>
+<h1 align="center"> Calenduuh — Help<br>Version 2.2</h1>
 
 Welcome to the support page for **Calenduuh**, the lightweight desktop calendar for macOS that keeps your schedule and notes just a click away.
 
@@ -76,15 +76,17 @@ Open the **Calenduuh > Calenduuh Settings** to adjust:
 
 Your preferences save automatically.
 
+### ➤ Duplicating/deleting Appointments
+Right-click a date with an existing appointment to open the day view, where appointments can be edited, duplicated, or deleted. Right-clicking an empty date creates a new appointment.
+
 ### ➤ Moving the Calendar Window
 Drag the window to any location.  
 Resize freely — Calenduuh remembers your chosen size and position on the next launch.
 
 ---
 
-## New in Version 2.1:
-  - Text box borders more prominent
-  - font changing buttons now in appointment editor
+## New in Version 2.2:
+  - Right-click a date with an existing appointment to open the day view, where appointments can be edited, duplicated, or deleted. Right-clicking an empty date creates a new appointment.
 
 ---
 
@@ -107,7 +109,7 @@ Absolutely. If there is already an appointment, then when you click into that da
 No. With the calenduuh app selected (click in top banner), just hover over the date and the title of the appointment(s) will show. Because of this, you might want to put the time of the appointment in the title. Then you only need to open the date to see additional info. This allows the calendar to be small but still show appointments at a glance.
 
 ### I put maps and other info in an appointment. Now, I want to keep that appointment in the calendar for record keeping; but I also have a follow up appointment where I'd like to have all of that same map/info. Do I have to manually copy that map & info to the follow up appointment date?
-No. This is what the "Duplicate" option is for. Click on the date of the original appointment. That will pop up a window to edit that appointment. Cancel out of that window and you'll see a smaller window with the "Duplicate" option next to the listing of the appointment. The Duplicate option pops up a duplicate edit window for the appointment. Change the date and save, and you now have a duplicate appointment with the map and other info.
+No. This is what the "Duplicate" option is for. Right-Click on the date of the original appointment. That will pop up a window with the "Duplicate" option next to the listing of the appointment. The Duplicate option pops up a duplicate edit window for the appointment. Change the date and save, and you now have a duplicate appointment with the map and other info.
 
 ### Why is the Import option disabled?
 This is expected — Import feature is only available after In-App-Purchase.
@@ -135,4 +137,5 @@ If you need additional help, feel free to reach out:
 **cellanalysis1@gmail.com**
 
 Thank you for using Calenduuh!
+
 
