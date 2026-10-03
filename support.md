@@ -1,4 +1,4 @@
-<h1 align="center"> Calenduuh — Help<br>Version 2.2</h1>
+<h1 align="center"> Calenduuh — Help<br>Version 2.3</h1>
 
 Welcome to the support page for **Calenduuh**, the lightweight desktop calendar for macOS that keeps your schedule and notes just a click away.
 
@@ -85,9 +85,8 @@ Resize freely — Calenduuh remembers your chosen size and position on the next 
 
 ---
 
-## New in Version 2.2:
-  - Right-click a date with an existing appointment to open the day view, where appointments can be edited, duplicated, or deleted. Right-clicking an empty date creates a new appointment.
-
+## New in Version 2.3:
+  - Bug Fix: restored "Fonts" and "Colors" button above appointment notes.
 ---
 
 ## 🔒 Privacy
@@ -120,6 +119,9 @@ Yes, this is one of the nice features of the export/import capability. Export th
 ---
 
 ## Version History
+
+### New in Version 2.2:
+  - Right-click a date with an existing appointment to open the day view, where appointments can be edited, duplicated, or deleted. Right-clicking an empty date creates a new appointment.
 
 ### Version 2.1
  - Text box borders more prominent
